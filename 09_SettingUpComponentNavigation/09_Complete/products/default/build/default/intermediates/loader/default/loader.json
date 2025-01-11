@@ -1,0 +1,29 @@
+{
+  "modulePathMap": {
+    "default": "E:\\09_SettingUpComponentNavigation\\09_Complete\\products\\default",
+    "map": "E:\\09_SettingUpComponentNavigation\\09_Complete\\features\\map",
+    "learning": "E:\\09_SettingUpComponentNavigation\\09_Complete\\features\\learning",
+    "quickstart": "E:\\09_SettingUpComponentNavigation\\09_Complete\\features\\quickstart",
+    "utils": "E:\\09_SettingUpComponentNavigation\\09_Complete\\commons\\utils",
+    "uicomponents": "E:\\09_SettingUpComponentNavigation\\09_Complete\\commons\\uicomponents"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "E:\\09_SettingUpComponentNavigation\\09_Complete",
+  "nodeModulesPath": "E:\\09_SettingUpComponentNavigation\\09_Complete\\products\\default\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "default",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "anBuildOutPut": "E:\\09_SettingUpComponentNavigation\\09_Complete\\products\\default\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "changedFileList": "E:\\09_SettingUpComponentNavigation\\09_Complete\\products\\default\\build\\default\\intermediates\\patch\\default\\changedFileList.json"
+  }
+}

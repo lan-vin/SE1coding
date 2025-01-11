@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "DaysmatterAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "DaysmatterAbility_label",
+      "value": "label"
+    }
+  ]
+}

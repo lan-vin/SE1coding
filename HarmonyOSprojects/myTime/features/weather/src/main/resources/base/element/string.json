@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "WeatherAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "WeatherAbility_label",
+      "value": "label"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "ClockAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ClockAbility_label",
+      "value": "label"
+    }
+  ]
+}
